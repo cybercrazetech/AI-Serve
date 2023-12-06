@@ -9,7 +9,7 @@ Hoping to made sth like the evil neuro by vedal789 :) though with inadequate ski
 
 Chiaki Nanami
 
-<img src=original-size-image/Chiaki Nanami>
+<img src="original-size-image/Chiaki Nanami">
 
 - tested environment: python3.9 in debian linux (parrot os)
 
