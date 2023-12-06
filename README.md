@@ -1,5 +1,5 @@
-## AI-Serve
-*a companion bot capable of understanding different language, voice recognition and displaying emotions
+## AI-Serve the Companion Bot
+*a chatbot capable of understanding different language, voice recognition and displaying emotions
 
 *This project is not for commercial purpose. default character used is Chiaki Nanami from Danganronpa 1
 
