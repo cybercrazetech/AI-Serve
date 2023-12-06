@@ -3,7 +3,7 @@
 
 *This project is not for commercial purpose. default character used is Chiaki Nanami from Danganronpa 1
 
-*Hoping to make sth like evil neuro by @vedal987 :) though with inadequate skills 
+*Hoping to make sth like evil neuro by @github/vedal987 :) though with inadequate skills 
 
 # Character list:
 
