@@ -5,7 +5,7 @@ This project is not for commercial purpose. default character used is Chiaki Nan
 
 Hoping to made sth like the evil neuro by vedal789 :) though with inadequate skills 
 
-*Character list:
+*Character list:*
 
 Chiaki Nanami
 
