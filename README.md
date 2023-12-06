@@ -8,7 +8,8 @@ Hoping to made sth like the evil neuro by vedal789 :) though with inadequate ski
 *Character list:
 
 Chiaki Nanami
-<img src=emotions/normal.png>
+
+<img src=original-size-image/Chiaki Nanami>
 
 - tested environment: python3.9 in debian linux (parrot os)
 
