@@ -1,11 +1,11 @@
-# AI-Serve
-a companion bot capable of understanding different language, voice recognition and displaying emotions
+## AI-Serve
+*a companion bot capable of understanding different language, voice recognition and displaying emotions
 
-This project is not for commercial purpose. default character used is Chiaki Nanami from Danganronpa 1.
+*This project is not for commercial purpose. default character used is Chiaki Nanami from Danganronpa 1
 
-Hoping to made sth like the evil neuro by vedal789 :) though with inadequate skills 
+*Hoping to make sth like evil neuro by @vedal987 :) though with inadequate skills 
 
-*Character list:*
+# Character list:
 
 Chiaki Nanami
 
