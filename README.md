@@ -1,10 +1,13 @@
 # AI-Serve
 a companion bot capable of understanding different language, voice recognition and displaying emotions
 
-*this project is not for commercial purpose. character used is Chiaki Nanami from Danganronpa 1.
+This project is not for commercial purpose. default character used is Chiaki Nanami from Danganronpa 1.
 
-*Hoping to made sth like the evil neuro by vedal789 :) though with inadequate skills 
+Hoping to made sth like the evil neuro by vedal789 :) though with inadequate skills 
 
+*Character list:
+
+Chiaki Nanami
 <img src=emotions/normal.png>
 
 - tested environment: python3.9 in debian linux (parrot os)
