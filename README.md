@@ -30,3 +30,9 @@ Kyoko Kirigiri
     python3 -m pip install -r requirements.txt
     python3 -m spacy download en_core_web_sm
     python3 AI-Serve.py
+
+*adjust image size via adjust_image_size.py in emotions/
+
+    <--snip-->
+    img.thumbnail((200,200)) <-- edit size here
+    <--snip-->
