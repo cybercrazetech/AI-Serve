@@ -1,0 +1,13 @@
+nltk
+pygame
+spacy
+googletrans==3.1.0a0
+pyaudio
+ibm_watson
+playsound
+wave
+SpeechRecognition
+wikipedia
+pydantic==1.10.8
+pydub
+langdetect
