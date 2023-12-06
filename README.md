@@ -2,6 +2,7 @@
 a companion bot capable of understanding different language, voice recognition and displaying emotions
 
 *this project is not for commercial purpose. character used is Chiaki Nanami from Danganronpa 1.
+
 *Hoping to made sth like the evil neuro by vedal789 :) though with inadequate skills 
 
 <img src=emotions/normal.png>
