@@ -11,6 +11,18 @@ Chiaki Nanami
 
 <img src="original-size-image/Chiaki Nanami/normal.png">
 
+Celestia Ludenberg
+
+<img src="original-size-image/Celestia Ludenberg/normal.png">
+
+Junko Enoshima
+
+<img src="original-size-image/Junko Enoshima/normal.png">
+
+Kyoko Kirigiri
+
+<img src="original-size-image/Kyoko Kirigiri/normal.png">
+
 - tested environment: python3.9 in debian linux (parrot os)
 
 *install dependencies and run
